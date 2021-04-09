@@ -1,7 +1,7 @@
 # world-wide-web-exe
 a website i converted to exe
 
-# !README.txt
+# !README!.txt
 Application was compiled to EXE using Nativefier. (node.js)
 
 https://github.com/nativefier/nativefier
